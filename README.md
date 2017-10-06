@@ -8,8 +8,6 @@
 - Node.js
 
 ### Installing
-If you would like the view the site from a user's point of view, you have the option of viewing the site on Heroku. It is located at <http://eat-burger.herokuapp.com>.
- 
 If you would like to run the application locally, please ensure that you have the prerequisites installed, then take the following steps:
 - Clone this repository to your local machine with `git clone <repo-url>`.
 - Install NPM dependencies by running `npm install` in the project directory.
@@ -31,9 +29,3 @@ If you would like to run the application locally, please ensure that you have th
 - Node.js (Javascript environment)
 - Sequelize (ORM)
 - WebStorm (Javascript GUI)
-
-## Author
-Mich Elliott - [mchlltt](https://github.com/mchlltt)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
